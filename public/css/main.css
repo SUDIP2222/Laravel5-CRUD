@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+}
+ 
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.icon-padding{
+    
+    padding-right:10px;
+    
+}
+
+.body-hight{
+    
+   height: 490px; 
+    
+}
+
+
+.form-paddind{
+    
+   padding-top: 100px; 
+    
+    
+}

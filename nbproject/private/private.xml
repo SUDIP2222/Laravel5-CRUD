@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/users/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/users/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/users/edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/users/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/layouts/user.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/resources/views/users/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/lara5table/app/Http/Controllers/TableController.php</file>
+        </group>
+    </open-files>
+</project-private>
