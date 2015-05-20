@@ -1,5 +1,6 @@
-## Laravel PHP Framework
 ![alt tag](https://cloud.githubusercontent.com/assets/8324443/7734928/9297aada-ff5b-11e4-874a-74003a88463e.PNG)
+## Laravel PHP Framework
+
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
